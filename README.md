@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amne-dev" alt="amne-dev" /></a> </p>
 
-- 🔭 I’m currently working on [NLC](web.get-nlc.tech)
+- 🔭 I’m currently working on [NLC](https://web.get-nlc.tech)
 
 - 🌱 I’m currently learning **Java, C#**
 
